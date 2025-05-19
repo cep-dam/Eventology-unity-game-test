@@ -3,7 +3,7 @@
 This repository contains the **multiplayer tag game prototype** developed by **Eventology** using **Unity** and **Photon PUN 2**. The game is based on the classic playground game *tag*, reimagined as an online 3D experience with third-person controls and flying mechanics.
 
 > 🧩 This project is a customized branch based on the original repository:
-> 👉 [https://github.com/NoahCarr938/Tag](https://github.com/NoahCarr938/Tag)
+> 👉 [https://github.com/cashgarman/GameOfTag](https://github.com/cashgarman/GameOfTag)
 
 ---
 
