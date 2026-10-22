@@ -66,9 +66,3 @@ Contributions are welcome! Submit issues or open pull requests to improve functi
 ## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Contact
-
-For questions or support, contact: 148581386+rwxce@users.noreply.github.com
